@@ -92,7 +92,7 @@
 
 <style lang="postcss">
   :global(body) {
-    @apply m-0 p-0;
+    @apply m-0 p-0 dark:bg-gray-950 dark:text-white h-full;
   }
   :global(:root) {
     @apply dark:bg-gray-950 dark:text-white h-full;
