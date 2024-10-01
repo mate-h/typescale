@@ -1,5 +1,7 @@
 # typescale
 
+<img src="./public/vertical-baselining.png" alt="Typescale" style="width: 800px" />
+
 Demo: https://typescale-alpha.vercel.app/
 
 A simple typescale for Svelte with batteries included.
