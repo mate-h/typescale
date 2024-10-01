@@ -1,5 +1,7 @@
 # typescale
 
+Demo: https://typescale-alpha.vercel.app/
+
 A simple typescale for Svelte with batteries included.
 
 - Vertical baselining fonts using CSS trick
